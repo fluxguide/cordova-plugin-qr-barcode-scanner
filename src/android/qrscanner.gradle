@@ -7,5 +7,5 @@ dependencies {
 }
 
 android {
-    buildToolsVersion '30.0.3'
+    buildToolsVersion '23.0.2'
 }
